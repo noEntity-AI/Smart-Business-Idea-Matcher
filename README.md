@@ -1,8 +1,8 @@
-# Smart Business Idea Matcher 🚀
+# Smart Business Idea Matcher
 
 A SaaS platform for aspiring entrepreneurs to find the right business idea or product based on their investment capacity.
 
-## 🌟 Features
+##  Features
 - Input budget, location (Global/Bangladesh), and business preferences
 - Intelligent recommendations based on user input
 - Recommendation includes:
